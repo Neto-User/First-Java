@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.java;
 import java.util.Scanner;  // 1. Importa a classe Scanner
 
 public class SucessorAntecessor {

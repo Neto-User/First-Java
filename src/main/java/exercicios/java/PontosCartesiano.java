@@ -1,7 +1,7 @@
-package exercicios;
+package exercicios.java;
 import java.util.Scanner;
 
-public class PontosCartesiano() {
+public class PontosCartesiano{
     public static void main(String[] args) {
         Scanner input= new Scanner(System.in);
 
